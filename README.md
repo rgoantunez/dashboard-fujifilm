@@ -1,15 +1,8 @@
-# 📊 Sales & Profit Analysis Dashboard (Excel)
-
-![Tool](https://img.shields.io/badge/Tool-Excel-green)
-![Focus](https://img.shields.io/badge/Focus-Business%20Intelligence-blue)
-![Domain](https://img.shields.io/badge/Domain-Business%20Analytics-purple)
-![Skills](https://img.shields.io/badge/Skills-EDA%20%7C%20Data%20Cleaning%20%7C%20Visualization-orange)
-![Level](https://img.shields.io/badge/Level-Junior%20Data%20Analyst-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+# 📊 Sales & Profit Analysis Dashboard *(Excel)*
 
 Exploratory Data Analysis (EDA) and interactive dashboard built in Excel to analyze sales performance and profitability trends for Fujifilm Instax products in Indonesia.
 
-## 📌 Project Overview
+## 🔍 Project Overview
 
 This project focuses on analyzing historical sales data (2022–2024) to uncover patterns, trends, and business insights. The final output is an interactive Excel dashboard designed to support data-driven decision-making.
 
@@ -43,7 +36,7 @@ This project focuses on analyzing historical sales data (2022–2024) to uncover
 - Validated data quality (no nulls or duplicates)   
 - Added unique identifier per record  
 
-## 📊 Key Insights
+## 📌 Key Insights
 
 - **Sales Trend:** Consistent year-over-year growth, peaking in 2024 (+21.47%)  
 - **Seasonality:** December shows the highest sales peaks; February the lowest  
@@ -74,16 +67,18 @@ This project focuses on analyzing historical sales data (2022–2024) to uncover
 - Data Cleaning & Transformation  
 - Exploratory Data Analysis (EDA)  
 - Data Visualization  
-- Business Analysis  
+- Business Analysis 
 
 ## ⏩ Future Improvements
 
-- Analyze impact of discounts and promotions  
+- Assess discount and promotion impact on revenue
 - Add advanced KPIs  
-- Automate data updates  
+- Enable direct data source integration for automated updates
 
 ## 👨‍💻 Author
 
 **Rodrigo Antúnez**  
 Economist | Data Analyst in training.
+
 GitHub: https://github.com/rgoantunez
+Project repository: https://github.com/rgoantunez/dashboard-fujifilm
